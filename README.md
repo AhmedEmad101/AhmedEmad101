@@ -16,9 +16,10 @@ I enjoy working on real-world systems, migrating legacy applications, and delive
 ---
 
 ## 🏢 Professional Experience
-
+### Backend Developer | Beetleware (February 2026 – Present)
+•Develop and collaborate in various software house projects backend (Logistics, Transport websites) that belongs to Ministry of Transport and Logistics at Saudi Arabia.
 ### Full Stack Developer — Five Dimensions Company  
-📅 December 2025 – Present
+📅 December 2025 – February 2026
 - Developing organizational web systems for employees and administrative control  
 - Migrating legacy systems to modern architectures  
 - Working on e-learning management systems  
@@ -38,24 +39,24 @@ I enjoy working on real-world systems, migrating legacy applications, and delive
 ## 🚀 Projects
 
 ### 🏠 Real Estate System (Graduation Project)
-Laravel & MySQL application for buying, renting, and selling properties with payment and email verification.  
+A full-featured property platform allowing users to buy, rent, and sell properties, various search and filters , integrations with PayPal ,Mailtrap for email sending. 
 🔗 https://github.com/AhmedEmad101/Real-Estate-System
 
 ### 🚗 3arabeyety
-Vehicle marketplace web application built with Laravel.  
+An e-commerce platform for publishing, searching, and trading vehicles with role-based user management. 
 🔗 https://github.com/AhmedEmad101/3arabeyety
 
 ### 📋 Task Assigner
-Team and task management system with productivity tracking.  
+A system for managing teams, projects, and task assignments with productivity tracking and payment integrations, multiple subscriptions tiers
 🔗 https://github.com/AhmedEmad101/Laravel-Task-Assigner-
 
 ### 💬 Smart Media
 Social media API platform using Laravel + React.  
 🔗 https://github.com/AhmedEmad101/SmartMedia
 
-### 🛒 E-commerce Platform
-Multi-role e-commerce system (buyer/seller).  
-🔗 https://github.com/AhmedEmad101/Laravel-Online-Shop-Project
+### Student Management System (Laravel Api )
+A system for managing students, admin , courses , attendances , applied repository, strategy and action design patterns, the endpoints are exported as a postman json collection
+🔗 https://github.com/AhmedEmad101/StudentManagementSystem
 
 ---
 
