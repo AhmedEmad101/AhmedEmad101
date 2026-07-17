@@ -17,14 +17,28 @@ I enjoy working on real-world systems, migrating legacy applications, and delive
 
 ## 🏢 Professional Experience
 ### Backend Developer | Beetleware (February 2026 – Present)
-•Develop and collaborate in various software house projects backend (Logistics, Transport websites) that belongs to Ministry of Transport and Logistics at Saudi Arabia.
+* **Enterprise & Government Logistics:** Developed and collaborated on multiple enterprise-level backend systems for software houses, including Logistics and Transport platforms utilized by the **Ministry of Transport and Logistics in Saudi Arabia**.
+* 🔹 Task Pro (Task Management System)
+* **Core Integrations:** Designed and implemented a comprehensive system featuring meeting approvals, **Outlook Calendar synchronization**, and **Microsoft Graph API integration**.
+* **Automation Engines:** Built automated email workflows, complex role-based permissions, and notification pipelines.
+* **Smart Recurrence Engines:** Engineered recurring meeting systems supporting configurable rules, automatic meeting generation, and full approval lifecycle management.
+* **CrewSync (Advanced HRMS Infrastructure):** Developed and maintained a robust, multi-role HRMS tailored for company and employee management, featuring location-based tracking, complex check-in/out scenarios, and strict business logic.
+* **API Optimization:** Optimized the Manager Bulk Attendance feature by redesigning REST APIs, reducing backend endpoint complexity by **50%**.
+* **Reporting Architecture:** Designed and implemented critical reporting tools, including an *'Attendance Out of Check-in Location'* report, and resolved a major missing data bug within the *'Location Exception Requests'* report.
+* **Admin Control Systems:** Built an application-wide *'Force Update'* toggle controlled through the Super Admin dashboard and synchronized with its corresponding API endpoint.
+* **Advanced AI Workflows:** Leveraged advanced AI engineering workflows by integrating knowledge from professional Anthropic certifications, including *Claude Code in Action*, *Claude with the Anthropic API*, *Introduction to Agent Skills*, and *Introduction to Model Context Protocol (MCP)*.
+* **Full-Stack Polish:** Resolved front-end layout and UI alignment discrepancies across platforms to ensure a seamless user experience.
+
 ### Full Stack Developer — Five Dimensions Company  
 📅 December 2025 – February 2026
-- Developing organizational web systems for employees and administrative control  
-- Migrating legacy systems to modern architectures  
-- Working on e-learning management systems  
-- Building and maintaining job portal platforms  
-- Collaborating with cross-functional teams
+* **CEO Meeting Management System:** Designed and implemented a comprehensive CEO Meeting Management System featuring meeting approvals, **Outlook Calendar synchronization**, **Microsoft Graph API integration**, recurring meetings, email automation, and role-based workflows.
+* **Smart Recurrence Engines:** Built recurring meeting functionality supporting configurable recurrence rules, automatic meeting generation, Outlook event synchronization, approval lifecycle management, and notification workflows.
+* **Calendar API Integration:** Integrated Microsoft Outlook Calendar APIs and webhooks to synchronize meeting creation, updates, attendee management, and calendar events across enterprise users.
+* Developing organizational web systems for employees and administrative control  
+* Migrating legacy systems to modern architectures  
+* Working on e-learning management systems  
+* Building and maintaining job portal platforms  
+* Collaborating with cross-functional teams
 
 ### Full Stack Developer — Elma7al.com  
 📅 January 2025 – November 2025
@@ -43,7 +57,7 @@ A full-featured property platform allowing users to buy, rent, and sell properti
 🔗 https://github.com/AhmedEmad101/Real-Estate-System
 
 ### 🚗 3arabeyety
-An e-commerce platform for publishing, searching, and trading vehicles with role-based user management. 
+ An e-commerce platform for publishing, searching, and trading vehicles with role-based user management. 
 🔗 https://github.com/AhmedEmad101/3arabeyety
 
 ### 📋 Task Assigner
@@ -64,7 +78,7 @@ A system for managing students, admin , courses , attendances , applied reposito
 - **Languages:** PHP, Java, Python, C, SQL  
 - **Frameworks:** Laravel, ASP.NET, Spring Boot  
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Tools:** Git, Docker, Redis, Trello, ClickUp
+- **Tools:** Git,Gitlab,CI/CD Piplines,Docker, Redis,Microsoft Azure,Zoho,Trello, ClickUp, Anthropic API, MCP,
 
 ---
 
